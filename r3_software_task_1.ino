@@ -90,5 +90,5 @@ void loop()
   convert(ones, 2, 3, 4, 5);
   convert(tens, 8, 9, 10, 11);
   Serial.println(pot);
-  delay(1000);
+  delay(10);
 }
